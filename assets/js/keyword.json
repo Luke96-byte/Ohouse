@@ -1,0 +1,65 @@
+{
+    "popular_keywords": [
+        {
+            "key": "한샘식탁",
+            "rank": 1,
+            "is_new": true,
+            "diff_rank": 0,
+            "display_keyword": "한샘 식탁"
+        }, {
+            "key": "카펫타일",
+            "rank": 2,
+            "is_new": false,
+            "diff_rank": 104,
+            "display_keyword": "카펫타일"
+        }, {
+            "key": "틈새수납장",
+            "rank": 3,
+            "is_new": false,
+            "diff_rank": 332,
+            "display_keyword": "틈새 수납장"
+        }, {
+            "key": "원형테이블800",
+            "rank": 4,
+            "is_new": false,
+            "diff_rank": 16,
+            "display_keyword": "원형 테이블 800"
+        }, {
+            "key": "모달이불",
+            "rank": 5,
+            "is_new": true,
+            "diff_rank": 0,
+            "display_keyword": "모달 이불"
+        }, {
+            "key": "이불세트",
+            "rank": 6,
+            "is_new": false,
+            "diff_rank": 16,
+            "display_keyword": "이불 세트"
+        }, {
+            "key": "베터핑거",
+            "rank": 7,
+            "is_new": true,
+            "diff_rank": 0,
+            "display_keyword": "베터핑거"
+        }, {
+            "key": "무선조명",
+            "rank": 8,
+            "is_new": true,
+            "diff_rank": 0,
+            "display_keyword": "무선 조명"
+        }, {
+            "key": "가방수납",
+            "rank": 9,
+            "is_new": false,
+            "diff_rank": 502,
+            "display_keyword": "가방 수납"
+        }, {
+            "key": "가벽파티션",
+            "rank": 10,
+            "is_new": true,
+            "diff_rank": 0,
+            "display_keyword": "가벽 파티션"
+        }
+    ]
+}
